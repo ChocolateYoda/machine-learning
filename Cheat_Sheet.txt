@@ -1,0 +1,8 @@
+pwd- shows path
+ls - stands for list, shows what is contained in it
+cd.. - goes back to prev path
+cd doc tab - goes into documents
+clear - clears
+cat - shows content in file
+python -m venv venv - create virtual environment
+pip install notebook - install jupyter notebook
